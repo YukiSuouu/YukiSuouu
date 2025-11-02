@@ -38,8 +38,8 @@ A personal finance management web application built with Vue 2 and Spring Boot.
 
 ## Connect With Me
 
-Email: your.email@uwec.edu  
-LinkedIn: https://linkedin.com/in/your-profile  
+Email: lyub3458@uwec.edu  
+LinkedIn: https://www.linkedin.com/in/bingxiu-lyu-a90578395/
 Location: Eau Claire, Wisconsin, USA  
 
 ---
